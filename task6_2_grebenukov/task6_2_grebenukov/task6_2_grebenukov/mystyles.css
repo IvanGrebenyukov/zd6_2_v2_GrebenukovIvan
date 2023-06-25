@@ -1,0 +1,24 @@
+﻿#headerlabel {
+    color: red;
+    font-size: 23;
+    font-weight: bold;
+    text-align: center;
+}
+#label {
+    color: black;
+    font-size: 18;
+    font-weight: normal;
+}
+#button {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 18;
+    text-align: center;
+}
+#entry {
+    background-color: white;
+    border-radius: 10, 10, 10, 10;
+    color: black;
+}
+

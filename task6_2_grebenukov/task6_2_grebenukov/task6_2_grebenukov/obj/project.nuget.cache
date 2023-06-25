@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRk7HwY4s3NXgjWl3sx3gEI8Bx5XxX+k6UtQLyhu5ZjSzkUMXikuXD8YZedfkJwcvUvvCL1dhLGD8Q/9iXnyxg==",
+  "success": true,
+  "projectFilePath": "H:\\Uchebnaia_Practice_RMP\\task6_2_grebenukov\\task6_2_grebenukov\\task6_2_grebenukov\\task6_2_grebenukov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ivang\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ivang\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ivang\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ivang\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
